@@ -19,7 +19,7 @@ export class AppComponent {
         ['First6', 0.7] ],
       columns: ['asd', 'asd2'],
       options: {},
-      width: 500,
+      width: 0,
       height: 500,
     },
     {
@@ -33,7 +33,7 @@ export class AppComponent {
         ['Second6', 0.7] ],
       columns: ['asd', 'asd2'],
       options: {},
-      width: 500,
+      width: 0,
       height: 500
     },
     {
@@ -47,7 +47,7 @@ export class AppComponent {
         ['third6', 0.7] ],
       columns: ['asd', 'asd2'],
       options: {},
-      width: 500,
+      width: 0,
       height: 500
     },
     {
@@ -61,7 +61,7 @@ export class AppComponent {
         ['fourth6', 0.7] ],
       columns: ['asd', 'asd2'],
       options: {},
-      width: 500,
+      width: 0,
       height: 500
     }
   ]
