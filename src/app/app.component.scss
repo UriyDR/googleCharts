@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.allCharts{
+  text-align: center;
+}
+
+
+.charts {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.charts2 {
+  width: calc(50% - 18px);
+  border: 3px solid grey;
+  margin: 3px;
+  padding: 24px;
+}
+
+.chartsTitle{
+  text-align: center;
+}
+
